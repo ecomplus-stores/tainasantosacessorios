@@ -20,13 +20,13 @@
     </url>
   
     <url>
-      <loc>https://tainasantosacessorios.netlify.app/pages/entrega</loc>
+      <loc>https://tainasantosacessorios.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://tainasantosacessorios.netlify.app/pages/contato</loc>
+      <loc>https://tainasantosacessorios.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -44,13 +44,13 @@
     </url>
   
     <url>
-      <loc>https://tainasantosacessorios.netlify.app/pages/sobre-nos</loc>
+      <loc>https://tainasantosacessorios.netlify.app/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://tainasantosacessorios.netlify.app/pages/privacidade</loc>
+      <loc>https://tainasantosacessorios.netlify.app/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
